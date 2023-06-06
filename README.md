@@ -1,7 +1,7 @@
-# Youtube-mp3-downloader
+# Song downloader
 A GUI that enables the user to download a song onto their device via an input of artist and song.
 
-Utilises the youtube library pytube to download the song of youtube.
+Utilises the youtube library pytube to download the song from YouTube.
 
 ## Technologies
 Python.
